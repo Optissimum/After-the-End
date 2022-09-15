@@ -1,9 +1,7 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
-
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://optissimum.github.io/After-the-End/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-86GUwKPnbzM-ybFAvF-7kI25gAGdNj9vSYt_jor4Nc/edit#gid=0
 ## Create your own
